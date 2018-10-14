@@ -1,0 +1,19 @@
+---
+galaxy_info:
+  author: r2dkennobi
+  description: Ansible role to install vim
+  company: theoldhermit
+
+  license: MIT
+
+  min_ansible_version: 2.1
+
+  platforms:
+  - name: Ubuntu
+    versions:
+    - all
+  - name: Archlinux
+    versions:
+    - all
+  galaxy_tags:
+    - development
